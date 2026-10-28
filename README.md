@@ -13,8 +13,6 @@ Employee Management System using Python Tkinter for the GUI and Django REST Fram
 - Python
 - Tkinter
 - Django
-- Django REST Framework
-- SQLite
 
 ## How to Run
 
