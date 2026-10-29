@@ -53,5 +53,5 @@ Employee Management System using Python Tkinter for the GUI and Django REST Fram
 
 ## Video Demo
 
-![Demo Video](images/demo.mp4)
+<video src="images/demo.mp4.mp4" width="100%" controls></video>
 
