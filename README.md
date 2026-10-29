@@ -52,6 +52,4 @@ Employee Management System using Python Tkinter for the GUI and Django REST Fram
 ![Delete Employee](images/delete.png)
 
 ## Video Demo
-
-<video src="images/demo.mp4.mp4" width="100%" controls></video>
-
+C:\Users\jenny\OneDrive\Desktop\WEEK 12 PYTHON\images\demo.mp4
